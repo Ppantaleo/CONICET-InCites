@@ -1,0 +1,28 @@
+Name;Web of Science Documents;Publication Year;Citable Docs;Times Cited;% Docs Cited;Rank;Category Normalized Citation Impact;International Collaborations;Country or Region;% International Collaborations;Times Cited without Self-Citations;% Documents in Top 1%;% Industry Collaborations;% Documents in Top 10%;Industry Collaborations;% Highly Cited Papers;Average Percentile;Highly Cited Papers;H-Index;Documents in Q1 Journals;H-Index without Self-Citations;Documents Cited;% Documents in Q1 Journals;Documents in Top 1%;Documents in Top 10%;All Open Access Documents;% Global Baseline (Docs);Gold Documents;% Global Baseline (Cites);Gold - Hybrid Documents;% All Open Access Documents;% Gold Documents;% Gold - Hybrid Documents
+Global Baseline;3523219;2019;2488825;39732942;70.35;n/a;0.974799188;739861;n/a;21;36765769;1.14;2.01;9.82;70941;0.56;40.02;19644;719;1144925;n/a;2478745;46.14;40324;346014;1432037;100;665060;100;203942;40.65;18.88;5.79
+Global Baseline;3550865;2020;2710081;35951710;72.36;n/a;0.976346316;783914;n/a;22.08;33189746;1.13;1.87;9.88;66368;0.6;40.87;21469;781;1206324;n/a;2569282;45.91;40125;350674;1606298;100;816889;100;240045;45.24;23.01;6.76
+Global Baseline;3667289;2021;2909348;24173715;70.16;n/a;0.968895509;832874;n/a;22.71;21995565;1.11;1.94;9.55;71207;0.64;39.86;23381;464;1289356;n/a;2573139;45.51;40563;350340;1786722;100;956264;100;292311;48.72;26.08;7.97
+Global Baseline;3553043;2022;2822485;10362564;58.01;n/a;0.966853268;787250;n/a;22.16;9217244;1.04;1.88;8.76;66666;0.66;35.13;23301;258;1258911;n/a;2061290;45.9;36805;311285;1757947;100;1037868;100;300168;49.48;29.21;8.45
+Global Baseline;2810996;2023;2321673;1717196;25.96;n/a;0.964212484;634446;n/a;22.57;1453824;0.92;1.78;6.85;49985;0.57;20.51;16050;94;0;n/a;729620;0;25876;192523;1365951;100;858008;100;290666;48.59;30.52;10.34
+Baseline ( ARGENTINA );17559;2019;14487;199004;71.26;n/a;0.927322023;7577;n/a;43.15;0;1.17;2;7.61;351;0.77;37.11;136;130;5493;n/a;12513;43.38;206;1336;8606;n/a;4262;n/a;828;49.01;24.27;4.72
+Baseline ( ARGENTINA );18916;2020;16135;190062;70;n/a;0.964587455;8451;n/a;44.68;0;1.15;2.04;7.35;386;0.7;36.63;133;125;5971;n/a;13242;44.04;217;1391;9414;n/a;4768;n/a;926;49.77;25.21;4.9
+Baseline ( ARGENTINA );18627;2021;16103;112737;65.94;n/a;0.933555709;8772;n/a;47.09;0;1.16;2.01;7.29;375;0.78;34.68;146;90;5837;n/a;12283;42.9;216;1357;9723;n/a;5421;n/a;1016;52.2;29.1;5.45
+Baseline ( ARGENTINA );16518;2022;13892;45412;50.73;n/a;1.058904171;7890;n/a;47.77;0;1.33;2.57;7.07;424;0.87;29.72;144;64;5212;n/a;8379;42.93;220;1168;8351;n/a;5041;n/a;1121;50.56;30.52;6.79
+Baseline ( ARGENTINA );12995;2023;11149;7275;23.26;n/a;1.011993036;6653;n/a;51.2;0;1.02;2.65;6.03;344;0.64;18.34;83;24;0;n/a;3022;0;133;783;6461;n/a;4134;n/a;1070;49.72;31.81;8.23
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);9640;2019;8801;107521;81.87;1;0.79586306;3979;ARGENTINA;41.28;89871;0.79;0.62;6.72;60;0.5;41.32;48;92;3263;88;7892;43.16;76;648;5035;0.27361342;2261;0.270609209;406;52.23;23.45;4.21
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);9659;2020;8943;83046;80.82;1;0.743854364;4187;ARGENTINA;43.35;69258;0.74;0.62;6.43;60;0.48;40.86;46;76;3418;72;7806;44.86;71;621;5167;0.272018227;2378;0.230993185;469;53.49;24.62;4.86
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);9266;2021;8580;51839;74.54;1;0.774575372;4114;ARGENTINA;44.4;43469;0.8;0.69;6.04;64;0.52;37.41;48;60;3168;59;6907;42.83;74;560;4892;0.252666207;2501;0.214443663;478;52.8;26.99;5.16
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);7807;2022;7113;18827;58.75;1;0.85888185;3559;ARGENTINA;45.59;15537;0.64;0.59;6.07;46;0.41;32.70;32;31;2622;30;4587;42.61;50;474;3977;0.219727147;2296;0.181682834;514;50.94;29.41;6.58
+Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET);6322;2023;5817;3270;24.87;1;0.803710456;3002;ARGENTINA;47.48;2623;0.6;0.55;5.5;35;0.35;19.25;22;12;0;12;1572;0;38;348;3112;0.22490249;1971;0.190426719;490;49.22;31.18;7.75
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Filter Summary:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Dataset: InCites Dataset + ESCI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Schema:  Web of Science;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Domestic/International Collaboration:  All;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Time Period:  [2019, 2023];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Include Early Access documents:  true;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Organization Name:  [Consejo Nacional de Investigaciones Cientificas y Tecnicas (CONICET)];;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Funding Data Source:  All Sources;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Exported date  Feb 27, 2024. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+InCites dataset updated  2024-01-25. Includes Web of Science content indexed through 2023-12-31. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
